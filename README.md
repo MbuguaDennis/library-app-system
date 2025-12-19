@@ -8,3 +8,8 @@
   - view all available bookks
   - borrow book
   - return a book
+
+  - Book
+    -title
+    - author
+    - 
